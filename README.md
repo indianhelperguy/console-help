@@ -1,1 +1,1 @@
-# console-help
+npm install -g create-react-app
